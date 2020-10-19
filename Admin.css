@@ -1,0 +1,67 @@
+#Tulisan {
+    text-align: center;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    text-align: center;
+    border-image: auto;
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+
+body {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 800px;
+    background: url("Background.jpg");
+    background-color: rgba(255, 255, 255, 0.5);
+    font-size: 17px;
+    font-weight: 400;
+    padding: 50;
+}
+
+h1 
+{
+    font-size: 40px;
+    color: #ffffff;
+}
+
+h2 {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+.icon-bar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+  }
+  
+  .icon-bar a {
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 12px 0;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 36px;
+  }
+  
+  .icon-bar a:hover {
+    background-color: #000;
+  }
+  
+  .active {
+    background-color: #4CAF50;
+  }
