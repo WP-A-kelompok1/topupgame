@@ -1,3 +1,3 @@
 README.md
 
-topup-gb.netlify.app
+https://top-upyah.netlify.app
