@@ -1,3 +1,3 @@
 README.md
 
-topupsantuy.netlify.app
+top-upsantuy.netlify.app
