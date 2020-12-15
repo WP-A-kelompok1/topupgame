@@ -1,0 +1,45 @@
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.content:hover{
+    background-color: #d0f0ee;
+    cursor: pointer;
+    transition: 1s;
+}
+.content{
+    border-radius: 5%;
+    border:1px solid #ffffff00;
+}
+
+.penutup{
+    background-color: #ecca31;
+    padding: 15px 30px;
+    box-sizing: border-box;
+    color: black;
+}
+
+.isi, .blok, .line1, .line2 {
+    max-width: 680px;
+    box-sizing: border-box;
+}
+
+.judulisi1, .judulisi2, .judulisi3, .judulisi4, .judulisi5{
+    box-sizing: border-box;
+}
+
+.blok{
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 15px 15px 15px 0;
+    white-space: nowrap;
+}
+
+.isi{
+    margin: auto;
+}
+
+.line1{
+    font-size: 20px;
+    font-weight: 700;
+}
